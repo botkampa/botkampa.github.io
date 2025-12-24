@@ -2,3 +2,55 @@ baseURL = 'https://botkampa.github.io/'
 languageCode = 'en-us'
 title = 'Bot Kampa'
 theme = 'hugo-book'
+
+# Pagination
+[pagination]
+  pagerSize = 10
+
+# Enable GitInfo for last modified dates
+enableGitInfo = false
+
+# Markup settings
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+
+# Parameters for hugo-book theme
+[params]
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo = 'https://github.com/botkampa/botkampa.github.io'
+  
+  # Enable/Disable search
+  BookSearch = true
+  
+  # Specify section for docs
+  BookSection = 'docs'
+  
+  # Enable page navigation
+  BookMenuBundle = '/menu'
+  
+  # Configure table of contents
+  BookToC = true
+  
+  # Enable comments (optional)
+  BookComments = false
+  
+  # Date format
+  BookDateFormat = 'January 2, 2006'
+  
+  # Specify which languages to show in language selector
+  BookPortableLinks = true
+
+# Menu configuration
+[menu]
+  [[menu.after]]
+    name = "Blog"
+    url = "/posts"
+    weight = 5
+
+# Outputs
+[outputs]
+  home = ['HTML', 'RSS']
