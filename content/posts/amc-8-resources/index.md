@@ -14,7 +14,9 @@ Helpful resources for preparing for the AMC-8 (American Mathematics Competition 
 
 - [FAQ for the AMC-8](https://sites.google.com/view/sps-contest-math/amc8) - A helpful compilation created by a Cascadia alumni parent.
 
-- Think Academy's [All You Need To Know For AMC-8 by Eddie](https://www.youtube.com/watch?v=7l3Z5VkL7M4) - A must-watch overview covering what AMC-8 feels like, key strategies, and worked examples.
+- **Think Academy's All You Need To Know For AMC-8 by Eddie** - A must-watch overview covering what AMC-8 feels like, key strategies, and worked examples.
+
+{{< youtube 7l3Z5VkL7M4 >}}
 
 ## Video Courses by Topic
 
