@@ -32,6 +32,8 @@ Helpful resources for preparing for the AMC-8 (American Mathematics Competition 
 
 - [Alcumus](https://artofproblemsolving.com/alcumus) - AoPS's adaptive online practice system with problems organized by topic and difficulty.
 
+- [Thriving Scholars](https://www.thrivingscholars.com/post/free-amc-8-and-amc-10-topic-wise-past-papers) - Free AMC 8 and AMC 10: Topic-wise Past Papers
+
 ## Books & Written Resources
 
 - Omegalearn's [AMC-8 Fundamentals](https://www.omegalearn.org/amc8-fundamentals) - Free online book covering each topic with exercises and video solutions.
