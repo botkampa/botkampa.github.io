@@ -2,7 +2,7 @@
 title: "Kernel Optimization"
 date: 2026-01-12T00:02:05-08:00
 # bookComments: false
-draft = false
+draft: false
 bookSearchExclude: false
 # bookPostThumbnail: thumbnail.*
 ---
